@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2PD19333
   title: “Субащид”-ьн་монгол་орчуулгуудьын་галиг་угсийи་хэлээ
   author: ''
-  volumes: {}
+  volumes:
+    f39a213647c5497fb3cba45874dd6e61:
+      image_group_id: I4PD4787
+      title: ''
+      volume_number: 1
+      total_pages: 734
